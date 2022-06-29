@@ -6,4 +6,5 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return
+    return s[3]
+print(main('sher',3))    
