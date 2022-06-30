@@ -7,3 +7,5 @@ def main(s):
         str: answer
     """
     return s[0]    
+
+    
