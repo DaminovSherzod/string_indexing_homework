@@ -6,5 +6,5 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return s[3]
-print(main('sher',3))    
+    return s[n]
+ 
